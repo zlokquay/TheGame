@@ -1,0 +1,2 @@
+Run TheGame.exe
+Play
